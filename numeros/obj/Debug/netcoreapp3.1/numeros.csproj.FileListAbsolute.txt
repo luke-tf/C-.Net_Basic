@@ -1,0 +1,13 @@
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.exe
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.deps.json
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.runtimeconfig.json
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.runtimeconfig.dev.json
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.dll
+C:\Users\0\tutorialCsharp\numeros\bin\Debug\netcoreapp3.1\numeros.pdb
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.csprojAssemblyReference.cache
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.AssemblyInfoInputs.cache
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.AssemblyInfo.cs
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.csproj.CoreCompileInputs.cache
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.dll
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.pdb
+C:\Users\0\tutorialCsharp\numeros\obj\Debug\netcoreapp3.1\numeros.genruntimeconfig.cache
